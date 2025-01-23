@@ -1,8 +1,6 @@
 ---
-title: Getting Started with Owlbert's 2025 Journeys
-excerpt: >-
-  This page will help you get started with Owlbert's 2025 Journeys. You'll be up
-  and running in a jiffy!
+title: Getting Started with Owlbert's Journeys
+excerpt: See and taste the sights with Owlbert! Learn lots of history and fun facts :)
 hidden: false
 ---
 <Icon name="fa-binoculars" /> Hey there explorer! :owlbert:
