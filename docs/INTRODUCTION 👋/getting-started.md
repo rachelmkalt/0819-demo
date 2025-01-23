@@ -5,35 +5,90 @@ excerpt: >-
   and running in a jiffy!
 hidden: false
 ---
-Welcome to ReadMe! :owlbert:
+<Icon name="fa-binoculars" /> Hey there explorer! :owlbert:
 
-You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out.
+Welcome to the developer hub for Owlbert's Journeys. In addition to being a fun owl, <Glossary>Owlbert</Glossary> is also a great navigator, travel guide, and all-around companion!
 
-# 📝 Customize your docs
+You can keep reading to learn more about Owlbert and the kinds of journeys he offers or jump to one of these sections depending on how you want to integrate with the Owlbert's Journeys API.
 
-What you're looking at right now is what we call our **Guides**. It's a free-form place to write to your heart's content! And the best part is... you aren't alone! Your users can contribute (with your approval, don't worry!) using the **[Suggested Edits](https://docs.readme.com/main/docs/suggested-edits)** feature on every page. It's like GitHub Pull Requests, but for text!
+<Cards columns={4}>
+  <Card title="Owlbert's Interactive Tours" href="https://owlberts-journeys-demo.readme.io/docs/interactive-tours" icon="fa-person-walking" target="_blank">
+    See what tours Owlbert offers and by type (walking, biking, or driving) for your iOS or Android app!
+  </Card>
 
-Want to ease your users into it with some fancy marketing pages? You can enable a **[Landing Page](https://docs.readme.com/main/docs/landing-page)**, and write as much HTML as you want to make it look like your brand.
+  <Card title="Owlbert's Audio Guides" href="https://owlberts-journeys-demo.readme.io/docs/audio-guides" icon="fa-headphones">
+    Prefer to listen to Owlbert as you stroll? See all available audio guides, and which are available for offline downloading!
+  </Card>
 
-# 🚦 Interactive API Docs
+  <Card title="Owlbert's Tips & Recommendations" href="https://owlberts-journeys-demo.readme.io/docs/tips-and-recs" icon="fa-pizza-slice">
+    Let Owlbert share tips about the history and architecture of a place, plus suggestions for nearby cafes and restaurants!
+  </Card>
 
-If you don't have an API, then no worries! ReadMe is great for any sort of documentation. But if you have an API, there are a few features to make your experience with ReadMe (and your users' experience with your developer hub!) a magical one:
+  <Card title="Owlbert's Journeys in Spanish" href="https://owlberts-journeys-demo.readme.io/docs/spanish-availability" icon="fa-map">
+    We offer a selection of guided tours in Spanish, plus downloaded subtitles for any interactive tours that are currently English-only!
+  </Card>
+</Cards>
 
-* **Upload your OpenAPI file:** First step is to describe your API to us! If you already have an OpenAPI file, there's lots of ways to upload it in the *API Reference* section. Our favorite is the GitHub Action, but you can use our CLI or you can upload it directly to the UI!
-* **Add API Keys:** Don't make your users hunt around for API keys. You can surface their API key [right in the docs](https://docs.readme.com/main/docs/personalized-docs), so they can play around with your API right inside ReadMe.
-* **Add Logs:** The coolest thing about ReadMe is you can add [real-time API Logs](https://docs.readme.com/main/docs/developer-dashboard) right to your docs, so you and your users can both see what's going on with their API. Trust us, it's magical!
+<br />
 
-# 📈 Know your users
+Anything that's available as an offline audio guide will be <Highlight>highlighted in light blue</Highlight> across Owlbert's Journeys API documentation, while anything that can be downloaded as transcript for reading is <Highlight color="lightgreen">highlighted in light green.</Highlight>
 
-One of the best ways to know if you're nailing the dev experience is checking out how your users are interacting with both your docs and API.
+# Take Owlbert in Your Pocket
 
-* **Documentation Metrics** let you see who's using your docs, what your best and worst pages are, what people are searching for and more!
-* **API Metrics** are a bit harder to set up (I promise we do our best to make it painless!), but once you set this up you'll know *everything* that's going on with your users!
+Well, not really...but sort of! Connect your app to Owlbert Journey via our API to get Owlbert's personalized tips, hidden facts, and audio and video recordings to help personalize your trip in many major cities throughout the U.S. and cities abroad too.
 
-# 💬 We're here to help!
+<Image align="center" className="border" border={true} width="30% " src="https://files.readme.io/f731c62-Sports.psd.png" />
 
-ReadMe has a *ton* of ways to make your docs the envy of any <Glossary>parliament</Glossary> (like that mouseover!). If you get stuck, [shoot us an email](mailto:support@readme.io) or use the Intercom widget on the bottom right of any page.
+## Owlbert Walking Guides 🚶‍♀️
 
-We're excited you're here! :blue_heart:
+We believe the best way to see a city is by walking 👣, and why not do that with Owlbert as your guide? Our API connects with most map apps so Owlbert can easily share fun facts and recommendations while your listeners can ensure that they don't get lost!
+
+> 🚴‍♀️ Looking to cycle with Owlbert?
+>
+> These walking guides can easily work if you're biking too! Just make sure you're not looking at your phone while you're listening!
+
+## Owlbert Audio Guides 🎧
+
+Owlbert's a real hoot (get it?!). But really, Owlbert's audio guides make it even easier—and lots more fun—to navigate a new city. Owlbert's audio guides are like if an audio book and a music playlist had a baby. They're fact-filled and song-filled, and perfect for listening to on the go! Sync Owlbert's audio guides with all of the major podcasting and music apps via our API.
+
+#### Languages Supported
+
+<Tabs>
+  <Tab title="English Version">
+    Our native tongue and Owlbert's. Transcripts of everything are also available in English!
+  </Tab>
+
+  <Tab title="Spanish Version">
+    Habla español? Tenemos todas las guias en español!
+  </Tab>
+
+  <Tab title="French Version">
+    Coming soon! 🇫🇷
+  </Tab>
+</Tabs>
+
+Owlbert Journey Maps are a great way to spruce up any trip and make it more fun! They're family-friendly and a great way to uncover hidden facts about a new place. And don't worry, if you get stuck integrating with Owlbert Journey Maps' API, [shoot us an email](mailto:support@readme.io) and we'll be sure to get back to within one week!
+
+:blue_heart:
 
 ![This won't be fun to clean up...](https://owlbert.io/images/popper.gif)
+
+export const Gradient = ({ children, start, stop, color = 'white' }) => (    
+  <div style={{ background: `linear-gradient(${start}, ${stop})`, color: color, padding: '10px' }}>
+    {children}
+  </div>
+);
+
+export const Color = ({ children, color }) => (    
+  <span style={{ color }}>{children}</span>
+);
+
+export const Highlight = ({ children, color = 'lightblue' }) => (    
+  <span style={{ backgroundColor: color }}>{children}</span>
+);
+
+export const Column = ({ children }) => <div style={{ flex: 1, padding: '0 10px' }}>{children}</div>;
+
+export const Columns = ({ children }) => <div style={{ display: 'flex' }}>{children}</div>;
+
+export const Icon = ({ style = 'fa-regular', name }) => <i className={`${style} ${name}`} />;
