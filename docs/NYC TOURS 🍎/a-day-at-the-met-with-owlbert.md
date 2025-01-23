@@ -1,5 +1,5 @@
 ---
-title: A Day at the Met with Owlbert!
+title: A Day at the Met with Owlbert
 deprecated: false
 hidden: false
 metadata:
