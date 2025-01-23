@@ -5,3 +5,6 @@ hidden: false
 metadata:
   robots: index
 ---
+:) Hola y bienvenidos!
+
+<AvailableInSpanish />
