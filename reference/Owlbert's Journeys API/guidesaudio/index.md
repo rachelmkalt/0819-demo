@@ -1,4 +1,4 @@
 ---
-title: /guides/audio
+title: Audio Guides
 hidden: false
 ---
