@@ -1,0 +1,4 @@
+---
+title: /tours
+hidden: false
+---
