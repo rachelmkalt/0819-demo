@@ -1,5 +1,5 @@
 ---
-title: Shoredich Walking Tour (London)
+title: Shoredich Walking Tour
 deprecated: false
 hidden: false
 metadata:
