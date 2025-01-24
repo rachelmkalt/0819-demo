@@ -1,4 +1,4 @@
 ---
-title: /recommendations/food
+title: Dining
 hidden: false
 ---
