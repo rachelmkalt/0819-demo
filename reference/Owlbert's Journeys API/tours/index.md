@@ -1,4 +1,4 @@
 ---
-title: /tours
+title: Tours
 hidden: false
 ---
