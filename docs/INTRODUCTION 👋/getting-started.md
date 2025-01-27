@@ -52,7 +52,7 @@ Owlbert's a real hoot (get it?!). But really, Owlbert's audio guides make it eve
 #### Languages Supported
 
 <Tabs>
-  <Tab title="English Version" icon="fa-flag">
+  <Tab title="English Version">
     Our native tongue and Owlbert's. Transcripts of everything are also available in English!
   </Tab>
 
