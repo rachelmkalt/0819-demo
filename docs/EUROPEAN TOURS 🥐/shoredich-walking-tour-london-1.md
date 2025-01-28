@@ -11,8 +11,6 @@ Exploring Shoreditch with Owlbert offers a vibrant mix of culinary delights, uni
 
 ## 📍Meeting Point
 
-Hello from GitHub
-
 Begin your tour at Old Spitalfields Market, a historic market dating back to 1638. Located on Brushfield Street, it’s easily accessible and offers a lively atmosphere to start your journey.
 
 ## Tour Stops:
