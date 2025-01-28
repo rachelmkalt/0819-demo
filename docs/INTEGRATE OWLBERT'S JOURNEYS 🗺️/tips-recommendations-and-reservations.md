@@ -46,3 +46,21 @@ metadata:
 <Accordion title="Sneakers Encouraged" icon="fa-info-circle">
   We recommend wearing comfortable shoes to any of Owlbert's Journeys!
 </Accordion>
+
+<br />
+
+## Hungry?
+
+<Columns layout="auto">
+  <Column>
+    Find on demand reservations
+  </Column>
+
+  <Column>
+    *Make a reservation in advance*
+  </Column>
+
+  <Column>
+    > Book a food tour
+  </Column>
+</Columns>
