@@ -9,7 +9,7 @@ metadata:
 
 Exploring Shoreditch with Owlbert offers a vibrant mix of culinary delights, unique shopping experiences, and a glimpse into the area’s rich history. Once a hub for industry, Shoreditch has transformed into one of London’s trendiest neighborhoods, known for its street art, markets, and eclectic atmosphere.
 
-## 📍Meeting Point
+## 📍Meeting Point - Hello From ReadMe
 
 Begin your tour at Old Spitalfields Market, a historic market dating back to 1638. Located on Brushfield Street, it’s easily accessible and offers a lively atmosphere to start your journey.
 
