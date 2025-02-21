@@ -1,0 +1,15 @@
+---
+name: Counter
+---
+import { useState } from 'react';
+
+export const CounterComponent = ({ children }) => {
+  const [count, setCount] = useState(0);
+  return (
+    <div className="flex items-center h-full w-full" onClick={()=>{ setCount(count + 1)}}>
+      {count}
+    </div>
+  );
+};
+
+<CounterComponent />
