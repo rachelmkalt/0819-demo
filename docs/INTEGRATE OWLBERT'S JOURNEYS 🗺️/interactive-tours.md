@@ -38,5 +38,3 @@ flowchart TD
     International --> Rome
     International --> Tokyo
 ```
-
-/
