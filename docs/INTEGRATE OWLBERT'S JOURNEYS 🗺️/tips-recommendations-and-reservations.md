@@ -7,8 +7,6 @@ metadata:
 ---
 <ReadingTime />
 
-<br />
-
 ## Get On-Demand, Location-Based Recs
 
 <Cards columns={4}>
