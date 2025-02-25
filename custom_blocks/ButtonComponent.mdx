@@ -1,9 +1,9 @@
 ---
 name: ButtonComponent
 ---
-export const Button = ({ children }) => {
+export const Button = ({ children, ...props }) => {
   return (
-    <button className="rounded-sm border-0 px-3 py-2 bg-blue-500 text-white">
+    <button {...props} className="rounded-sm border-0 px-3 py-2 bg-blue-500 text-white">
       {children}
     </button>
   );
