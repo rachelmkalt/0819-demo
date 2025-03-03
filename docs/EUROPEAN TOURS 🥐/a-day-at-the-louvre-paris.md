@@ -7,7 +7,7 @@ metadata:
 ---
 # A Perfect Day in Paris
 
-Owlbert’s walking tour of the Louvre and its surrounding area offers an immersive journey through the art, history, and charm of Paris. Starting at the famous Louvre Museum, this tour dives into the cultural richness of Paris, guiding you through architectural marvels, artistic treasures, and quintessentially Parisian spots nearby.
+Owlbert’s walking tour of the Louvre and its surrounding area offers an immersive journey through the art, history, and charm of Paris. Starting at the famous Louvre Museum, this tour dives into the cultural richness of Paris, guiding you through architectural marvels, artistic treasures, and quintessentially Parisian spots nearby..
 
 ### Tour Highlights and Stops:
 
