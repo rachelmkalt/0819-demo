@@ -5,13 +5,9 @@ hidden: false
 metadata:
   robots: index
 ---
-export const handleClick = () => alert('hey ReadMe friends!');
-
 ## Get to Know a New City with Owlbert as Your Guide!
 
 Owlbert is an ideal travel companion who makes exploring a new city even more fun, and informative!
-
-<Button onClick={handleClick}>Take a Hike</Button>
 
 With real-time, location-based updates, Owlbert can offer a truly dynamic experience—like suggesting a nearby café when you are in the vicinity or providing historical context when you approach landmarks.
 
