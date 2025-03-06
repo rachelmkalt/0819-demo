@@ -38,3 +38,17 @@ flowchart TD
     International --> Rome
     International --> Tokyo
 ```
+
+<Columns layout="auto">
+  <Column>
+    Hello
+  </Column>
+
+  <Column>
+    *World*
+  </Column>
+
+  <Column>
+    > Today
+  </Column>
+</Columns>
