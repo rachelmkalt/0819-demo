@@ -5,7 +5,7 @@ hidden: false
 ---
 <Icon name="fa-binoculars" /> Hey there explorer! :owlbert:
 
-Welcome to the developer hub for Owlbert's Journeys. In addition to being a fun owl, <Glossary>Owlbert</Glossary> is also a great navigator, travel guide, and all-around companion!
+Welcome to the developer hub for Owlbert's Journeys. Additionally, to being a fun owl, <Glossary>Owlbert</Glossary> is also a great navigator, travel guide, and all-around companion!
 
 You can keep reading to learn more about Owlbert and the kinds of journeys he offers or jump to one of these sections depending on how you want to integrate with the Owlbert's Journeys API.
 
