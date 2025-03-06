@@ -29,7 +29,7 @@ You can keep reading to learn more about Owlbert and the kinds of journeys he of
 
 <br />
 
-Anything that's available as an offline audio guide will be <Highlight>highlighted in light blue</Highlight> across Owlbert's Journeys API documentation, while anything that can be downloaded as transcript for reading is <Highlight color="lightgreen">highlighted in light green.</Highlight>
+Anything that's available as an offline audio guide will be <Highlight>hello world!</Highlight> across Owlbert's Journeys API documentation, while anything that can be downloaded as transcript for reading is <Highlight color="lightgreen">highlighted in light green.</Highlight>
 
 # Take Owlbert in Your Pocket
 
