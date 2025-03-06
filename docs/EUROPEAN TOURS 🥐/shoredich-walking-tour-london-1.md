@@ -19,7 +19,7 @@ Begin your tour at Old Spitalfields Market, a historic market dating back to 163
 2. **Boxpark Shoreditch:** An innovative pop-up mall constructed from shipping containers, Boxpark offers a mix of independent fashion boutiques and a variety of street food vendors. It’s a great spot to discover emerging designers and enjoy diverse culinary options.
 3. **Redchurch Street:** This trendy street is lined with independent boutiques, contemporary art galleries, and chic cafes. It’s the perfect place to find unique fashion pieces and enjoy the local art scene.
 4. **Columbia Road Flower Market:** If your tour falls on a Sunday, a visit to this bustling flower market is a must. The street comes alive with vibrant colors and fragrances, and the surrounding independent shops offer antiques, art, and more.
-5. S\*\*horeditch High Street: \*\*The main artery of the neighborhood, it’s home to a variety of shops, bars, and eateries. Explore the mix of high-end retailers and quirky independent stores, and perhaps stop for a coffee at one of the many artisanal cafes.
+5. **Shoreditch High Street**: The main artery of the neighborhood, it’s home to a variety of shops, bars, and eateries. Explore the mix of high-end retailers and quirky independent stores, and perhaps stop for a coffee at one of the many artisanal cafes.
 
 **Visual Highlights:**
 
