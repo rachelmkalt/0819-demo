@@ -6,3 +6,4 @@ api:
   operationId: get_tours
 hidden: false
 ---
+Hello world!
