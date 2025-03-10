@@ -9,10 +9,6 @@ Welcome to the developer hub for Owlbert's Journeys. Additionally, to being a fu
 
 You can keep reading to learn more about Owlbert and the kinds of journeys he offers or jump to one of these sections depending on how you want to integrate with the Owlbert's Journeys API.
 
-
-Hello from GitHub!
-
-
 <Cards columns={4}>
   <Card title="Owlbert's Interactive Tours" href="https://owlberts-journeys-demo.readme.io/docs/interactive-tours" icon="fa-person-walking" target="_blank">
     See what tours Owlbert offers and by type (walking, biking, or driving) for your iOS or Android app!
