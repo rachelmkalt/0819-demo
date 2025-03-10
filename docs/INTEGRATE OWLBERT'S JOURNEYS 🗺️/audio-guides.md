@@ -9,7 +9,7 @@ metadata:
 
 <Image align="left" width="15% " src="https://files.readme.io/396839dd97f5e0dcd87a6c22c0e17387e939625c7bc1cdddd34aab33ecf3b39a-owlbert-windbreaker.svg.full_1.png" />
 
-Owlbert prides himself on being an excellent travel companion. Owlbert's Audio Guides offer an engaging way to explore a new city, turning any walk or bike ride into a rich, narrated, and immersive (but not too distracting!) experience. Editing in the Github UI. **Another test**
+Owlbert prides himself on being an excellent travel companion. Owlbert's Audio Guides offer an engaging way to explore a new city, turning any walk or bike ride into a rich, narrated, and immersive (but not too distracting!) experience.
 
 <br />
 
