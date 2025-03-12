@@ -2,3 +2,18 @@
 name: SimpleStepperComponent
 ---
 import React, { useState, useMemo } from "react";
+
+export const SimpleStepperComponent = ({ children }) => {
+  console.log("Children received:", children);
+  
+  const steps = useMemo(() => (Array.isArray(children) ? children : [children]), [children]);
+  const [currentStep, setCurrentStep] = useState(0);
+
+  const containerStyle = {
+    maxWidth: "600px",
+    margin: "40px auto",
+    padding: "20px",
+    border: "1px solid #ccc",
+    borderRadius: "8px",
+    textAlign: "center",
+  };
