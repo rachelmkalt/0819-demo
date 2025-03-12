@@ -77,3 +77,9 @@ export const Sparkle = ({ children }) => {
     He's hoping to branch out to more continents, hopefully traveling to South America in 2025!
   </ToggleListItem>
 </ToggleList>
+
+## Spoiler Alert!
+
+<br />
+
+<Spoiler>Coming Up Next!!</Spoiler>
