@@ -15,18 +15,18 @@ Owlbert prides himself on being an excellent travel companion. Owlbert's Audio G
 
 ## Getting Started with an Owlbert-Led Audio Guide
 
-\<SimpleStepperComponent>
-&#x20; \<SimpleStep header="Step 1: Download the Owlbert's Journey's Mobile App" fa-icon=download">
-&#x20;   All audio guides are available offline.
-&#x20; \</SimpleStep>
+\<SimpleStepperComponent>\
+\<SimpleStep header="Step 1: Download the Owlbert's Journey's Mobile App">
+All audio guides are available offline.
+\</SimpleStep>
 
-&#x20; \<SimpleStep header="Step 2: Write">
-&#x20;   Write effective and clear documentation.
-&#x20; \</SimpleStep>
+\<SimpleStep header="Step 2: Write">\
+Write effective and clear documentation.
+\</SimpleStep>
 
-&#x20; \<SimpleStep header="Step 3: Review">
-&#x20;   Review and refine your content.
-&#x20; \</SimpleStep>
+\<SimpleStep header="Step 3: Review">\
+Review and refine your content.
+\</SimpleStep>
 \</SimpleStepperComponent>
 
 <br />
