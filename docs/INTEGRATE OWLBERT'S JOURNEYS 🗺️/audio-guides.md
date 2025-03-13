@@ -15,11 +15,19 @@ Owlbert prides himself on being an excellent travel companion. Owlbert's Audio G
 
 ## Getting Started with an Owlbert-Led Audio Guide
 
+<SimpleStepperComponent>
+  <SimpleStep header="Step 1: Download the Owlbert's Journeys Mobile App">
+    Available for iOS and Android
+  </SimpleStep>
 
+  <SimpleStep header="Step 2: Head to the Audio Guides section">
+    Favorite and download audio guides for easy listening!
+  </SimpleStep>
 
-<br />
-
-<br />
+  <SimpleStep header="Step 3: Integrate with your favorite podcast app">
+    Owlbert's Journey's API is compatible with Apple Podcasts, Spotify and all major podcasting apps.
+  </SimpleStep>
+</SimpleStepperComponent>
 
 > ⏲️ Plan Ahead!
 >
