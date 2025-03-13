@@ -11,11 +11,9 @@ metadata:
 
 Owlbert prides himself on being an excellent travel companion. Owlbert's Audio Guides offer an engaging way to explore a new city, turning any walk or bike ride into a rich, narrated, and immersive (but not too distracting!) experience.
 
-<br />
+/
 
 ## Getting Started with an Owlbert-Led Audio Guide
-
-<br />
 
 <SimpleStepperComponent>
   <SimpleStep header="Step 1: Plan">
