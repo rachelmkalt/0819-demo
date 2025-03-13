@@ -16,8 +16,8 @@ Owlbert prides himself on being an excellent travel companion. Owlbert's Audio G
 ## Getting Started with an Owlbert-Led Audio Guide
 
 <SimpleStepperComponent>
-  <SimpleStep header="Step 1: Plan">
-    Plan your documentation and gather resources.
+  <SimpleStep header="Step 1: Download Guide">
+    All audio guides are available offline.
   </SimpleStep>
 
   <SimpleStep header="Step 2: Write">
