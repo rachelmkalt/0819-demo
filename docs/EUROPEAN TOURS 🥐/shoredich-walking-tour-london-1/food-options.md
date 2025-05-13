@@ -6,3 +6,4 @@ metadata:
   robots: index
 ---
 * Dishoom
+* Smokestack
