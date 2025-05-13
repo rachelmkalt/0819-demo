@@ -12,7 +12,7 @@
     }
   ],
   "paths": {
-    "/tours": {
+    "/tours-testing": {
       "get": {
         "summary": "Get available tours",
         "description": "Retrieve a list of available tours for cities supported by Owlbert's Journeys.",
