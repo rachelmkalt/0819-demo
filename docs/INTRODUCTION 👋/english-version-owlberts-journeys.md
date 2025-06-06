@@ -2,6 +2,7 @@
 title: '[English Version] Owlbert''s Journeys'
 deprecated: false
 hidden: false
+icon: 🇺🇸
 metadata:
   robots: index
 ---
