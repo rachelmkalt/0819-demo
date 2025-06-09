@@ -2,6 +2,7 @@
 title: Getting Started with Owlbert's Journeys
 excerpt: See and taste the sights with Owlbert! Learn lots of history and fun facts :)
 hidden: false
+icon: 😀
 ---
 <Icon name="fa-binoculars" /> Hey there explorer! :owlbert:
 
