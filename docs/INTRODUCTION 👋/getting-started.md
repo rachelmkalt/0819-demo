@@ -68,10 +68,6 @@ Owlbert Journey Maps are a great way to spruce up any trip and make it more fun!
 
 :blue_heart:
 
-<Image align="left" width="20px" src="https://files.readme.io/88520922c5ad3d85f3837b0779d0db5fa1719643f6c6b3c60146e0a80a88068d-IMG_1360.jpeg" />
-
-<Image align="center" width="10px" src="https://files.readme.io/81eb7d8f496ea947ecd7d5a7817dd2838dfbbbf954f82bc0588e0662375456ec-IMG_1359.jpeg" />
-
 export const Gradient = ({ children, start, stop, color = 'white' }) => (    
   <div style={{ background: `linear-gradient(${start}, ${stop})`, color: color, padding: '10px' }}>
     {children}
