@@ -40,9 +40,11 @@ Well, not really...but sort of! Connect your app to Owlbert Journey via our API 
 
 We believe the best way to see a city is by walking 👣, and why not do that with Owlbert as your guide? Our API connects with most map apps so Owlbert can easily share fun facts and recommendations while your listeners can ensure that they don't get lost!
 
-> 🚴‍♀️ Looking to cycle with Owlbert?
->
-> These walking guides can easily work if you're biking too! Just make sure you're not looking at your phone while you're listening!
+<Callout icon="🚴‍♀️" theme="default">
+  ### Looking to cycle with Owlbert?
+
+  These walking guides can easily work if you're biking too! Just make sure you're not looking at your phone while you're listening!
+</Callout>
 
 ## Owlbert Audio Guides 🎧
 
