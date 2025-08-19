@@ -20,7 +20,7 @@ Owlbert will take you on a guided walking tour of some of the Lower East Side's 
 
 Each stop includes:
 
-* A history of the restaurant
+* A brief overview of the restaurant and story about the owners
 * A downloadable menu
 * Easy ordering options for takeout, integrated with all major delivery apps
 * One-touch payment options
